@@ -63,6 +63,10 @@ img {
   border-radius: 0.25rem;
   font-weight: 600;
 }
+.social__item:hover {
+  color: var(--Grey-900);
+  background-color: var(--Green);
+}
 .attribution {
   font-size: 14px;
   text-align: center;
